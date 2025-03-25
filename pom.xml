@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>csd230</groupId>
-	<artifactId>csd230.lecture2_10.jwt_in_class_exercise_completedd</artifactId>
+	<artifactId>jwt_in_class_exercise_completed</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Application</name>
 	<description>Demo project for Spring Boot</description>
